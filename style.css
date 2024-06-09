@@ -1,0 +1,3 @@
+button#skbColorBtn::selection {
+  user-select: none;
+}
