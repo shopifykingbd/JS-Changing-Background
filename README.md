@@ -1,1 +1,1 @@
-#### [Live Preview](https://shopifykingbd.github.io/javascript-random-bg/)
+#### [Live Preview](https://shopifykingbd.github.io/js-random-color/)
